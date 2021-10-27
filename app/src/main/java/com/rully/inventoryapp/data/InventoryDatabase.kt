@@ -18,8 +18,6 @@ abstract class InventoryDatabase : RoomDatabase() {
             if (INSTANCE == null) {
                 synchronized(InventoryDatabase::class.java) {
                     INSTANCE = Room.databaseBuilder(context.applicationContext, InventoryDatabase::class.java, "inventory_database")
-                        .fallbackToDestructiveMigration()
-                        .allowMainThreadQueries()
                         .build()
                 }
             }
