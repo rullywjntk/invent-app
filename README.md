@@ -1,6 +1,6 @@
 # Inventory-app
 
-Contoh implementasi sederhana ORM pada aplikasi daftar barang menggunakan Room.
+Contoh implementasi sederhana ORM menggunakan Room pada aplikasi daftar barang.
 
 Fitur
 --
