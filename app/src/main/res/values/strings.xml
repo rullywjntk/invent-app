@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="date">Date</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="warna">Warna</string>
+    <string name="jumlah_1">Jumlah</string>
+
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="deleted">Item berhasil dihapus</string>
+    <string name="no">Tidak</string>
+    <string name="changed">Item berhasil dirubah</string>
+    <string name="added">Item berhasil ditambahkan</string>
+    <string name="jumlah">Total</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Batal</string>
+    <string name="msg_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="msg_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="yes">Ya</string>
+
+</resources>
